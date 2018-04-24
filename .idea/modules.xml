@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_empty/00_empty.iml" filepath="$PROJECT_DIR$/00_empty/00_empty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_helloworld/01_helloworld.iml" filepath="$PROJECT_DIR$/01_helloworld/01_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_greeter_with_blacklist/02_greeter_with_blacklist.iml" filepath="$PROJECT_DIR$/02_greeter_with_blacklist/02_greeter_with_blacklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_greeter_with_timeout/03_greeter_with_timeout.iml" filepath="$PROJECT_DIR$/03_greeter_with_timeout/03_greeter_with_timeout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_persistent_actor/04_persistent_actor.iml" filepath="$PROJECT_DIR$/04_persistent_actor/04_persistent_actor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_cluster/05_cluster.iml" filepath="$PROJECT_DIR$/05_cluster/05_cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_sharding/06_sharding.iml" filepath="$PROJECT_DIR$/06_sharding/06_sharding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka-workshop.iml" filepath="$PROJECT_DIR$/akka-workshop.iml" />
+    </modules>
+  </component>
+</project>

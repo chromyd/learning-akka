@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="00_empty" />
+        <module name="01_helloworld" />
+        <module name="02_greeter_with_blacklist" />
+        <module name="03_greeter_with_timeout" />
+        <module name="04_persistent_actor" />
+        <module name="05_cluster" />
+        <module name="06_sharding" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="00_empty" target="1.8" />
+      <module name="01_helloworld" target="1.8" />
+      <module name="02_greeter_with_blacklist" target="1.8" />
+      <module name="03_greeter_with_timeout" target="1.8" />
+      <module name="04_persistent_actor" target="1.8" />
+      <module name="05_cluster" target="1.8" />
+      <module name="06_sharding" target="1.8" />
+      <module name="akka-workshop" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
